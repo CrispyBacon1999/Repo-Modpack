@@ -16,4 +16,4 @@ Quick and easy script that packs up all files in the `pack` folder as a zip file
 
 2. Build the modpack
 
-`uv run main.py`
+`uv run pack.py`

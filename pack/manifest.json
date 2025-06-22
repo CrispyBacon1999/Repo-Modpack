@@ -1,6 +1,6 @@
 {
   "name": "Buzz_XXX",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "description": "Modpack for the Armory",
   "website_url": "https://github.com/CrispyBacon1999/Repo-Modpack",
   "dependencies": [
@@ -32,6 +32,10 @@
     "DirtyGames-REPOGambling-1.5.9",
     "flipf17-OpenExtractionWithCart-1.0.2",
     "CCarrMcMahon-Essentials-0.3.5",
-    "linkoid-OpenInvite-1.0.0"
+    "linkoid-OpenInvite-1.0.0",
+    "DarwinVS-Skrek-1.0.0",
+    "FebrAro-HeadManSound-1.0.2",
+    "loaforc-loaforcsSoundAPI_REPO-1.0.1",
+    "loaforc-loaforcsSoundAPI-2.0.6"
   ]
 }
