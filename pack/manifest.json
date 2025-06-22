@@ -1,6 +1,6 @@
 {
   "name": "Buzz_XXX",
-  "version_number": "1.0.2",
+  "version_number": "1.1.0",
   "description": "Modpack for the Armory",
   "website_url": "https://github.com/CrispyBacon1999/Repo-Modpack",
   "dependencies": [
@@ -21,7 +21,6 @@
     "BobisMods-REPORoles-2.0.6",
     "SteamBlizzard-YippeeDuck-1.0.1",
     "discjenny-CartSpeedSync-2.0.0",
-    "Magic_Wesley-Wesleys_Levels-1.1.4",
     "Jake_n_Liv-Jake_and_Livs_Retro_Smashpack-1.2.1",
     "ColtG5-BoomboxCart-1.1.1",
     "Traktool-SharedUpgrades-2.1.3",
