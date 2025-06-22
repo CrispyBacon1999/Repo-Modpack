@@ -1,6 +1,6 @@
 {
   "name": "Buzz_XXX",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "description": "Modpack for the Armory",
   "website_url": "https://github.com/CrispyBacon1999/Repo-Modpack",
   "dependencies": [
@@ -35,6 +35,8 @@
     "DarwinVS-Skrek-1.0.0",
     "FebrAro-HeadManSound-1.0.2",
     "loaforc-loaforcsSoundAPI_REPO-1.0.1",
-    "loaforc-loaforcsSoundAPI-2.0.6"
+    "loaforc-loaforcsSoundAPI-2.0.6",
+    "JacuJ-GnomedGnomeSounds-1.0.0",
+    "whatthehellisateamandwhy-FreeBirdPlus-1.0.0"
   ]
 }
